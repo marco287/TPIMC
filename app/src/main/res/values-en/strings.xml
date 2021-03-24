@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TPIMC</string>
+    <string name="poids">Determine your weight  :</string>
+    <string name="taille">Determine your size :</string>
+    <string name="valeurmetre">Meter</string>
+    <string name="valeurcentimetre">Centimeter</string>
+    <string name="appreciation">Appreciation</string>
+    <string name="calculIMC">Calculate BMI</string>
+    <string name="reset">Reset</string>
+    <string name="resultat">Result:</string>
+    <string name="texte_explicatif">You must click on the "Calculate BMI" button to get a result</string>
+
+
+
+
+
+</resources>

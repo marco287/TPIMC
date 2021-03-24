@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TPIMC</string>
+    <string name="poids">Déterminez votre poids :</string>
+    <string name="taille">Déterminez votre taille :</string>
+    <string name="valeurmetre">Mètre</string>
+    <string name="valeurcentimetre">Centimètre</string>
+    <string name="appreciation">Appréciation</string>
+    <string name="calculIMC">Calculer l\'IMC</string>
+    <string name="reset">Reset</string>
+    <string name="resultat">Résultat:</string>
+    <string name="texte_explicatif">Vous devez cliquer sur le bouton « Calculer l\'IMC » pour obtenir un résultat.</string>
+
+
+
+
+</resources>
